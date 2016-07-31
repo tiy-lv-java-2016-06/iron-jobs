@@ -33,6 +33,7 @@ This is a very basic job board site.  A user will be able to login/register.  Th
 		* Reverse choronological order
 		* Option to filter by salary and location
 		* Option to sort by salary
+	* Create new job posting
 	* Get a job posting detail (return a single job posting object)
 	* Apply to job posting
 * Write tests for the end points
