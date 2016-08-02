@@ -37,13 +37,14 @@ This is a very basic job board site.  A user will be able to login/register.  Th
 	* Get a job posting detail (return a single job posting object)
 	* Apply to job posting
 * Write tests for the end points
+* Use Travis-CI to test the repository
 * Deploy your application to Heroku so make it available for your front end person
 
 ## Larger Groups
 Travis-CI
 * Make your deploys through travis-ci 
 * It should run tests
-* Deploy to heroku 
+* Deploy to heroku
 
 Messaging system:
 * Applicant can send a message to posting owner
